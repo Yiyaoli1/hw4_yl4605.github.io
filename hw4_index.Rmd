@@ -1,0 +1,27 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    code_folding: hide
+    toc: true
+    toc_float: true
+---
+
+# This is Yiyao's awesome website
+
+Welcome! You can find something you are interested about me here :)
+
+# A cute pig
+
+here's a character I like:
+
+<img src="image/pig.jpg" style="width:75%">
+
+
+# My resume
+
+[about me](about.html)
+
+
+
+

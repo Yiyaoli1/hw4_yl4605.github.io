@@ -1,0 +1,46 @@
+---
+title: "About me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Resume
+
+## Basic information
+
+- Name: Yiyao LI
+- Date of Birth: 01/07/1998
+- Gender: Female
+
+## contact information
+
+- Phone:17743525796
+- [Github](https://github.com/Yiyaoli1)
+- [Mail](mailto:<yl4605@columbia.edu>)
+
+## Educational experience
+- Bachelor of engineering, Jilin University, 2020, major: Food safety and quality
+
+- Master of science candidate, Columbia university, 2022, major: Biostatistics
+
+
+## Research experience
+- National project: Protective Effect of Salidroside on Liver Injury Induced by Furan In Mice
+
+- Effects of Different Metal Ions on the Stability of Anthocyanins as Indicators 
+
+- Protective Effect of Salidroside on Testicular Injury Induced by Furan In Mice 
+
+
+## Awards
+National Scholarship
+Outstanding student
+Individual Scholarship
+
+
+## Something that I like
+BOOK: Fortress Besieged
+MOVIE: Gone with the wind
+MUSIC: Set for life

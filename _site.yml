@@ -1,0 +1,14 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "about"
+      href: hw4_about.html
+    - tehxt: "Dashboard"
+      href: hw4_plotly.html
+    - icon: fa-envelope github fa-lg
+      href: http://github.com/Yiyaoli1/
+output:
+  html_document:
+    theme: flatly
